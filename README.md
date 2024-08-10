@@ -42,7 +42,7 @@ CREATE TABLE `robot_commands` (
 
 **Example of the Database Table Structure:**
 
-![Database Table Structure](images/database.png)
+![Database Table Structure](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/Database.PNG)
 
 ### **3. Project Setup**
 
@@ -73,7 +73,7 @@ CREATE TABLE `robot_commands` (
 . **Images:**
 
    ![Database Table Structure](images/database.png)
-   ![Command Display Interface](images/command-display.png)
+   ![Command Display Interface]([images/command-display.png](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/command%20page.PNG))
  
 ### **6. Customization**
 
