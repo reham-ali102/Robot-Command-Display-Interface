@@ -63,7 +63,7 @@ CREATE TABLE `robot_commands` (
 
 **Example of the Command Display Interface:**
 
-![Command Display Interface](images/command-display.png)
+![Command Display Interface](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/Interfase.PNG)
 
 ### **5. File Descriptions**
 
@@ -72,8 +72,8 @@ CREATE TABLE `robot_commands` (
 
 . **Images:**
 
-   ![Database Table Structure](images/database.png)
-   ![Command Display Interface]([images/command-display.png](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/command%20page.PNG))
+   ![Database Table Structure](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/last%20command.PNG)
+   ![Command Display Interface](https://github.com/reham-ali102/Robot-Command-Display-Interface/blob/main/command%20page.PNG)
  
 ### **6. Customization**
 
